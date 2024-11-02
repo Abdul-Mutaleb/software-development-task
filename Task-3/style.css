@@ -1,0 +1,30 @@
+.container
+{
+    text-align: center;
+    margin-top: 150px;
+}
+input{
+    font-family: serif;
+    margin-bottom: 4px;
+    padding: 10px;
+    width: 230px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+button{
+    padding: 10px;
+    width: 250px;
+    border-radius: 5px;
+    border: none;
+    background-color: blue;
+    color: antiquewhite;
+    margin-bottom: 15px;
+}
+a{
+    color: rgb(66, 114, 157);
+    text-decoration: none;
+    word-spacing: 3px;
+}
+h1{
+    color: blue;
+}

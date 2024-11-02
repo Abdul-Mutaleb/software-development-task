@@ -1,0 +1,29 @@
+body{
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    background-image:url(../Task-2/img/bg.jpg.jpg);
+    background-color: rgba(0,0,0,0.8);
+    background-blend-mode: darken;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    color: rgb(252, 18, 18);
+}
+.movies{
+    text-align: center;
+    color: #fff;
+    margin-top: 100px;
+}
+h2{
+    font-size: 32px;
+}
+button{
+    background-color: rgb(252, 18, 18);
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+input{
+    padding: 10px;
+}

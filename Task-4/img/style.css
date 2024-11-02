@@ -1,0 +1,31 @@
+body{
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    width: 255px;
+    color: #fff;
+    margin-top: -150px; 
+    margin-left: -127.5px; 
+}
+
+p{
+    color: #ffffff;
+    text-align: justify;
+}
+button{
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    margin-bottom: 5px;
+}
+a button{
+    background-color: blue;
+    color: #fff;
+    padding: 10px 25px;
+}
